@@ -14,9 +14,9 @@
 
 ##  <br /> <a name="introduction">✨ Introduction</a>
 
-**[EN]** Nike landing page built with React using Tailwind CSS, showcasing a modern design. 
+**[EN]** Modern Nike landing page designed with React and Tailwind CSS, featuring a visually appealing hero section, popular products showcase, unique "About Us" section, special offers display, testimonials, and a newsletter integration. This project maximizes Tailwind CSS with best practices, theming techniques, and JavaScript-like tasks. The entire site is mobile-responsive, highlighting Tailwind's flexibility and design capabilities.
 
-**[FR]** Page d'accueil Nike réalisée avec React et Tailwind CSS, arborant un design moderne.
+**[FR]** Page d'accueil moderne pour Nike, conçue avec React et Tailwind CSS. Ce projet comprend une section héro captivante, une présentation des produits populaires, une section "À propos" originale, des offres spéciales, des témoignages, et une intégration de la newsletter. Il optimise l'utilisation de Tailwind CSS avec des bonnes pratiques, des techniques de thématisation et des effets interactifs habituellement réalisés avec JavaScript. Le site est entièrement responsive, mettant en valeur la flexibilité et les capacités de design de Tailwind.
 
 ##  <br /> <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -96,4 +96,4 @@ npm run dev
 yarn dev
 ```
 
-Open [`http://localhost:3000`](http://localhost:3000) in your browser to view the project.
+Open [`http://localhost:5173`](http://localhost:5173) in your browser to view the project.
